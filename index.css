@@ -1,0 +1,28 @@
+body
+{
+    background-color: white;
+    font-size: 17px;
+    font-family: poppins;
+}
+#navigation
+{
+    display: flex;
+    border: solid rgb(11, 238, 189);
+    height: 100px;
+    width:auto;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(6, 248, 248);
+    border-radius: 8px;
+    margin-bottom: 100px;
+}
+#heading
+{
+    text-align: center;
+}
+#username, #location, #bio, #linkedIn, #github
+{
+    margin-left: 50px;
+    margin-top: 50px;
+    padding-left: 100px;
+}
